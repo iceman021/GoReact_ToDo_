@@ -20,7 +20,7 @@ import (
 // DB connection string
 // for localhost mongoDB
 // const connectionString = "mongodb://localhost:27017"
-const connectionString = "mongodb+srv://ice021:<ice777>@cluster0.efq9r.mongodb.net/sample_weatherdata?retryWrites=true&w=majority"
+const connectionString = "mongodb+srv://ice***:<test>@cluster0.efq9r.mongodb.net/sample_weatherdata?retryWrites=true&w=majority"
 
 // Database Name
 const dbName = "sample_weatherdata"
